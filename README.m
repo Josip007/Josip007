@@ -1,5 +1,4 @@
 # Hello!
 
-I'm here to learn frontend!
+I'm here to learn frontend!  :muscle: 
 
-:muscle: 
