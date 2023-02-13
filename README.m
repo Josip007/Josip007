@@ -1,3 +1,3 @@
 # Hello!
 
-I'm here to learn front end, for start.
+I'm here to learn frontend!
