@@ -8,7 +8,6 @@ I come from an **engineering background (M.Eng. Mechanical Engineering)** and cu
 📊 Focus areas: Machine Learning, Time Series, Data Analysis, ML deployment
 
 🌐 Portfolio: https://josipb-portfolio.netlify.app  
-💻 Projects: https://github.com/Josip007  
 🔗 LinkedIn: https://linkedin.com/in/josip-bosnjakovic-ds
 
 Currently completing a **Data Science & AI program at Neue Fische (Germany)**.
