@@ -1,5 +1,14 @@
-# Hello!
+# Hello 👋
 
-Welcome to my Github page!
-Finished Algebra's program for frontend development, using HTML, CSS, Javascript and React. Currently in Data science and AI course with Neue Fische in Germany. :muscle: ✨
+I'm **Josip Bosnjakovic**, a **Data Scientist focused on Machine Learning, Time Series Analysis and Predictive Analytics**.
 
+I come from an **engineering background (M.Eng. Mechanical Engineering)** and currently specialize in **Data Science & Artificial Intelligence**.
+
+🔬 Main tools: Python, SQL, scikit-learn, TensorFlow, PyTorch  
+📊 Focus areas: Machine Learning, Time Series, Data Analysis, ML deployment
+
+🌐 Portfolio: https://josipb-portfolio.netlify.app  
+💻 Projects: https://github.com/Josip007  
+🔗 LinkedIn: https://linkedin.com/in/josip-bosnjakovic-ds
+
+Currently completing a **Data Science & AI program at Neue Fische (Germany)**.
