@@ -2,7 +2,7 @@
 
 I'm **Josip Bosnjakovic**, a **Data Scientist focused on Machine Learning, Time Series Analysis and Predictive Analytics**.
 
-I come from an **engineering background (M.Eng. Mechanical Engineering)** and currently specialize in **Data Science & Artificial Intelligence**.
+I come from an **engineering background (M.Eng. Mechanical Engineering)** and specialize in **Data Science & Artificial Intelligence**.
 
 🔬 Main tools: Python, SQL, scikit-learn, TensorFlow, PyTorch  
 📊 Focus areas: Machine Learning, Time Series, Data Analysis, ML deployment
